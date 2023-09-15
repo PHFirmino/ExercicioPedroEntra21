@@ -1,0 +1,70 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+img{
+    margin-left: 20px;
+    width: 90px;
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+
+.exercicios{
+    display: none;
+}
+
+a{
+    color: black;
+}
+
+.mostrar{
+    margin: 20px 40px 0px 0px;
+}
+
+.mostrar:hover .exercicios{
+    display: block;
+}
+
+footer{
+    margin-top: 52vh;
+    height: 100px;
+    background-color: #38B6FF;
+    padding: 20px;
+}
+
+form{
+    height: 10vh;
+    display: flex;
+    justify-content: center;
+    margin-top: 220px;
+}
+
+input{
+    border: black solid 2px;
+    padding: 8px;
+    border-radius: 8px;
+}
+
+
+form .form #botao{
+    background-color: black;
+    color: white;
+    margin-top: 10px ;
+}
+
+
+#info{
+    margin-top: 10px;
+}
+
+.cargos{
+    margin-bottom: 10px;
+}
