@@ -33,7 +33,7 @@ function cargos(){
                 porc = salarioAntigo / 100 * 9
                 salarioAtual = salarioAntigo + porc
             break;
-            default:
+            case 4:
                 cargo = "Colaborador"
                 salarioAntigo = 200
                 porc = salarioAntigo / 100 * 10

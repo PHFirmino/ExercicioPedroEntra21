@@ -32,9 +32,13 @@ function calcIMC(){
     {
         msg.innerHTML = "Obesidade II (severa)"
     }
-    else
+    else if(imc >= 40)
     {
         msg.innerHTML = "Obesidade II (severa)"
+    }
+    else
+    {
+        msg.innerHTML = "SEM RESULTADO"
     }
 
 
