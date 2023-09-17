@@ -34,7 +34,7 @@ a{
 }
 
 footer{
-    margin-top: 52vh;
+    margin-top: 75vh;
     height: 100px;
     background-color: #38B6FF;
     padding: 20px;
@@ -44,7 +44,7 @@ form{
     height: 10vh;
     display: flex;
     justify-content: center;
-    margin-top: 220px;
+    margin-top: 130px;
 }
 
 input{
@@ -59,6 +59,33 @@ form .form #botao{
     color: white;
     margin-top: 10px ;
 }
+
+form .form #botao:hover{
+    background-color: rgb(53, 53, 53);
+    color: white;
+    margin-top: 10px ;
+}
+
+
+
+
+form .form-cargo #botao{
+    background-color: black;
+    color: white;
+    margin-top: 10px ;
+}
+
+form .form-cargo #botao:hover{
+    background-color: rgb(53, 53, 53);
+    color: white;
+    margin-top: 10px ;
+}
+
+form .form-cargo select{
+    border-radius: 8px;
+    padding: 10px;
+}
+
 
 
 #info{

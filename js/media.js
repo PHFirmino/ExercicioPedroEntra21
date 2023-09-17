@@ -8,14 +8,21 @@ function media(){
 
     let media = (n1 + n2 + n3) / 3
 
-    console.log(media)
 
-    if(media >= 7 && freq >=75)
-    {
-        msg.innerHTML = "PASSOU"
-    }
+    if(n1 < 0 || n1 > 10 || isNaN(n1) || n2 < 0 || n2 > 10 || isNaN(n2) || n3 < 0 || n3 > 10 || isNaN(n3) || freq > 100 || freq < 0 || isNaN(freq)){
+
+        msg.innerHTML = "Algo inválido"
+    } 
     else
     {
-        msg.innerHTML = "REPROVOU"
+        if(media >= 7 && freq >= 75)
+        {
+            msg.innerHTML = "Passou de ano"
+        }
+        else
+        {
+            msg.innerHTML = "Reprovou de ano"
+        }
     }
+
 }

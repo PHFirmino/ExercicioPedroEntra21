@@ -38,8 +38,6 @@ function calcIMC(){
     }
     else
     {
-        msg.innerHTML = "SEM RESULTADO"
+        msg.innerHTML = "Algo inválido"
     }
-
-
 }

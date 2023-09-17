@@ -24,20 +24,20 @@
         </div>
     </header>
     <form action="">
-        <div class="form">
+        <div class="form-cargo">
             <div class="cargos">
-                1 - GERENTE 2 - SUPERVISOR 3 - OPERADOR - 4 COLABORADOR
+                <select name="" id="select">
+                    <option value="selecione">Selecione um Cargo</option>
+                    <option value="gerente">Gerente</option>
+                    <option value="supervisor">Supervisor</option>
+                    <option value="operador">Operador</option>
+                    <option value="colaborador">Colaborador</option>
+                </select>
             </div>
             <div>
                 <div>
-                    <label for="">Cargo</label>
+                    <input type="button" id="botao" onclick="cargos()" value="Enviar">
                 </div>
-                <div>
-                    <input type="number" id="cargo">
-                </div>
-            </div>
-            <div>
-                <input type="button" id="botao" value="Enviar" onclick="cargos()">
                 <div id="info">
                         
                 </div>
