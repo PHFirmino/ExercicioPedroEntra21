@@ -1,9 +1,9 @@
 function cargos(){
     let infoCargo =  document.getElementById("select").value
+    let salarioAntigo = parseFloat(document.getElementById("salario").value)
 
-    let salarioAntigo
-    let porc
     let salarioAtual
+    let porc
     let msg = document.getElementById("info")
     let caiu
 
@@ -13,25 +13,21 @@ function cargos(){
     {
         case "gerente":
             cargo = "Gerente"
-            salarioAntigo = 500
             porc = salarioAntigo / 100 * 5
             salarioAtual = salarioAntigo + porc
             break;
         case "supervisor":
             cargo = "Supervisor"
-            salarioAntigo = 400
             porc = salarioAntigo / 100 * 8
             salarioAtual = salarioAntigo + porc
             break;
         case "operador":
             cargo = "Operador"
-            salarioAntigo = 300
             porc = salarioAntigo / 100 * 9
             salarioAtual = salarioAntigo + porc
         break;
         case "colaborador":
             cargo = "Colaborador"
-            salarioAntigo = 200
             porc = salarioAntigo / 100 * 10
             salarioAtual = salarioAntigo + porc
             break;
@@ -40,7 +36,7 @@ function cargos(){
             break;
     }
 
-    if(caiu == true){
+    if(caiu == true || salarioAntigo <= 0 || isNaN(salarioAntigo)){
         msg.innerHTML = "Algo inválido"
     }
     else{
