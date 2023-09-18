@@ -42,9 +42,9 @@ function cargos(){
     else{
         msg.innerHTML = 
         `Cargo: ${cargo}</br> 
-        Salário Antigo: ${salarioAntigo}R$</br> 
-        Salário Atual: ${salarioAtual}R$</br>
-        Aumento: ${porc}R$`
+        Salário Antigo: ${salarioAntigo.toFixed(2)}R$</br> 
+        Salário Atual: ${salarioAtual.toFixed(2)}R$</br>
+        Aumento: ${porc.toFixed(2)}R$`
     }
 
 }
