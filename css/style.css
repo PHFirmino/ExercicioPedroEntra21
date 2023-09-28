@@ -1,0 +1,104 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h3{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+input{
+    padding: 5px;
+    border-radius: 8px;
+}
+
+form{
+    margin-top: 10vh;
+    display: flex;
+    justify-content: center;
+}
+
+#divbotao{
+    display: flex;
+    justify-content: center;
+}
+
+#tabela{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+#divremover{
+    display: flex;
+    justify-content: center;
+}
+
+#att{
+    display: flex;
+    justify-content: center;
+}
+
+#botao{
+    margin-top: 10px;
+    background-color: green;
+    border: none;
+    padding: 8px;
+    border-radius: 8px;
+    color: white;
+}
+
+#botao:hover{
+    margin-top: 10px;
+    background-color: rgb(13, 153, 13);
+    border: none;
+    padding: 8px;
+    border-radius: 8px;
+    color: white;
+}
+
+#remover{
+    margin-top: 10px;
+    background-color: red;
+    border: none;
+    padding: 8px;
+    border-radius: 8px;
+    color: white;
+    margin-left: 10px;
+}
+
+#remover:hover{
+    margin-top: 10px;
+    background-color: rgb(235, 49, 49);
+    border: none;
+    padding: 8px;
+    border-radius: 8px;
+    color: white;
+}
+
+#botao3{
+    margin-top: 10px;
+    background-color: yellow;
+    border: none;
+    padding: 8px;
+    border-radius: 8px;
+    color: white;
+    margin-left: 10px;
+}
+
+#botao3:hover{
+    margin-top: 10px;
+    background-color: rgb(250, 250, 43);
+    border: none;
+    padding: 8px;
+    border-radius: 8px;
+    color: white;
+}
+
+#att input{
+    margin-left: 10px;
+}

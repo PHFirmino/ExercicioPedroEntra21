@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css">
+    <title>Document</title>
+</head>
+<body>
+    <div>
+        <a href="navbar.html">Voltar</a>
+    </div>
+    <form action="">
+        <div>
+            <h3>Adicionar</h3>
+            <div>
+                <label for="">Nome</label>
+            </div>
+            <div>
+                <input type="text" id="nome" placeholder="Digite o nome">
+            </div>
+            <div>
+                <label for="">E-mail</label>
+            </div>
+            <div>
+                <input type="email" id="email"placeholder="Digite o email">
+            </div>
+        </div>
+    </form>
+    <div id="divbotao">
+        <button id="botao">Enviar</button>
+    </div>
+    <div id="tabela">
+        <table id="lista">
+            <tr>
+                <th>
+                    ID
+                </th>
+                <th>
+                    Nome
+                </th>
+                <th>
+                    Email
+                </th>
+            </tr>
+        </table>
+    </div>
+    <h3>Remover</h3>
+    <div id="divremover">
+        <input type="number" id="removerNumero" placeholder="Digite a linha">
+        <input type="button" id="remover" value="Remover">
+    </div>
+
+    <h3>Atualizar</h3>
+    <div id="att">
+        <input type="number" id="numero" placeholder="Digite a linha">
+        <input type="text" id="mudar" placeholder="Digite o nome">
+        <input type="text" id="email2" placeholder="Digite o email">
+        <input type="button" value="Atualizar" id="botao3">
+    </div>
+
+    <script src="js/app2.js"></script>
+</body>
+</html>

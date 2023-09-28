@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.calculadora{
+    display: flex;
+    justify-content: center;
+    margin-top: 35vh;
+}
+
+.into{
+    background-color: yellow;
+    width: 11%;
+    text-align: center;
+    padding-top: 5px;
+    border: 5px black solid;
+}
+
+button{
+    padding: 10px;
+    width: 40px;
+    margin-bottom: 5px;
+    background-color: black;
+    color: white;
+    border: none;
+}
+
+#botao2{
+    width: 72px;
+}
+
+p{
+    padding: 11px;
+    background-color: rgb(255, 255, 255);
+    margin: 0 6px 0 6px;
+    height: 40px;
+    border: 2px solid black;
+}
+
+.valores{
+    margin-top: 10px;
+}

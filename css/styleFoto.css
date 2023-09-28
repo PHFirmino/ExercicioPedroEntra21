@@ -1,0 +1,17 @@
+#foto img{
+    width: 100px;
+    height: 100px;
+}
+
+input{
+    border-radius: 10px;
+    padding: 10px;
+    margin-bottom: 10px;
+    background-color: green;
+    border: none;
+    color: white;
+}
+
+input:hover{
+    background-color: rgb(24, 161, 24);
+}
