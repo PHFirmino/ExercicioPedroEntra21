@@ -32,3 +32,19 @@ button{
 .enviarr:hover{
     background-color: rgb(24, 161, 24);
 }
+
+#botao3{
+    background-color: red;
+}
+
+#botao3:hover{
+    background-color: rgb(236, 36, 36);
+}
+
+#botao4{
+    background-color: yellow;
+}
+
+#botao4:hover{
+    background-color: rgb(184, 184, 8);
+}
