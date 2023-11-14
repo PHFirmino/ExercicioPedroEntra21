@@ -1,0 +1,14 @@
+C:\Users\Pedro\source\repos\Crud2\Crud2\bin\Debug\net6.0\Crud2.exe
+C:\Users\Pedro\source\repos\Crud2\Crud2\bin\Debug\net6.0\Crud2.deps.json
+C:\Users\Pedro\source\repos\Crud2\Crud2\bin\Debug\net6.0\Crud2.runtimeconfig.json
+C:\Users\Pedro\source\repos\Crud2\Crud2\bin\Debug\net6.0\Crud2.dll
+C:\Users\Pedro\source\repos\Crud2\Crud2\bin\Debug\net6.0\Crud2.pdb
+C:\Users\Pedro\source\repos\Crud2\Crud2\obj\Debug\net6.0\Crud2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\source\repos\Crud2\Crud2\obj\Debug\net6.0\Crud2.AssemblyInfoInputs.cache
+C:\Users\Pedro\source\repos\Crud2\Crud2\obj\Debug\net6.0\Crud2.AssemblyInfo.cs
+C:\Users\Pedro\source\repos\Crud2\Crud2\obj\Debug\net6.0\Crud2.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\source\repos\Crud2\Crud2\obj\Debug\net6.0\Crud2.dll
+C:\Users\Pedro\source\repos\Crud2\Crud2\obj\Debug\net6.0\refint\Crud2.dll
+C:\Users\Pedro\source\repos\Crud2\Crud2\obj\Debug\net6.0\Crud2.pdb
+C:\Users\Pedro\source\repos\Crud2\Crud2\obj\Debug\net6.0\Crud2.genruntimeconfig.cache
+C:\Users\Pedro\source\repos\Crud2\Crud2\obj\Debug\net6.0\ref\Crud2.dll
