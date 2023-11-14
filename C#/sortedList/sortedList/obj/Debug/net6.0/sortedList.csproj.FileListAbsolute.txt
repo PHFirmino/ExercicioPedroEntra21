@@ -1,0 +1,14 @@
+C:\Users\Pedro\source\repos\sortedList\sortedList\bin\Debug\net6.0\sortedList.exe
+C:\Users\Pedro\source\repos\sortedList\sortedList\bin\Debug\net6.0\sortedList.deps.json
+C:\Users\Pedro\source\repos\sortedList\sortedList\bin\Debug\net6.0\sortedList.runtimeconfig.json
+C:\Users\Pedro\source\repos\sortedList\sortedList\bin\Debug\net6.0\sortedList.dll
+C:\Users\Pedro\source\repos\sortedList\sortedList\bin\Debug\net6.0\sortedList.pdb
+C:\Users\Pedro\source\repos\sortedList\sortedList\obj\Debug\net6.0\sortedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\source\repos\sortedList\sortedList\obj\Debug\net6.0\sortedList.AssemblyInfoInputs.cache
+C:\Users\Pedro\source\repos\sortedList\sortedList\obj\Debug\net6.0\sortedList.AssemblyInfo.cs
+C:\Users\Pedro\source\repos\sortedList\sortedList\obj\Debug\net6.0\sortedList.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\source\repos\sortedList\sortedList\obj\Debug\net6.0\sortedList.dll
+C:\Users\Pedro\source\repos\sortedList\sortedList\obj\Debug\net6.0\refint\sortedList.dll
+C:\Users\Pedro\source\repos\sortedList\sortedList\obj\Debug\net6.0\sortedList.pdb
+C:\Users\Pedro\source\repos\sortedList\sortedList\obj\Debug\net6.0\sortedList.genruntimeconfig.cache
+C:\Users\Pedro\source\repos\sortedList\sortedList\obj\Debug\net6.0\ref\sortedList.dll
