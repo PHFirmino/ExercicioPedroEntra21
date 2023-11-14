@@ -1,0 +1,14 @@
+C:\Users\Pedro\source\repos\carroExercicio1\carroExercicio1\bin\Debug\net6.0\carroExercicio1.exe
+C:\Users\Pedro\source\repos\carroExercicio1\carroExercicio1\bin\Debug\net6.0\carroExercicio1.deps.json
+C:\Users\Pedro\source\repos\carroExercicio1\carroExercicio1\bin\Debug\net6.0\carroExercicio1.runtimeconfig.json
+C:\Users\Pedro\source\repos\carroExercicio1\carroExercicio1\bin\Debug\net6.0\carroExercicio1.dll
+C:\Users\Pedro\source\repos\carroExercicio1\carroExercicio1\bin\Debug\net6.0\carroExercicio1.pdb
+C:\Users\Pedro\source\repos\carroExercicio1\carroExercicio1\obj\Debug\net6.0\carroExercicio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\source\repos\carroExercicio1\carroExercicio1\obj\Debug\net6.0\carroExercicio1.AssemblyInfoInputs.cache
+C:\Users\Pedro\source\repos\carroExercicio1\carroExercicio1\obj\Debug\net6.0\carroExercicio1.AssemblyInfo.cs
+C:\Users\Pedro\source\repos\carroExercicio1\carroExercicio1\obj\Debug\net6.0\carroExercicio1.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\source\repos\carroExercicio1\carroExercicio1\obj\Debug\net6.0\carroExercicio1.dll
+C:\Users\Pedro\source\repos\carroExercicio1\carroExercicio1\obj\Debug\net6.0\refint\carroExercicio1.dll
+C:\Users\Pedro\source\repos\carroExercicio1\carroExercicio1\obj\Debug\net6.0\carroExercicio1.pdb
+C:\Users\Pedro\source\repos\carroExercicio1\carroExercicio1\obj\Debug\net6.0\carroExercicio1.genruntimeconfig.cache
+C:\Users\Pedro\source\repos\carroExercicio1\carroExercicio1\obj\Debug\net6.0\ref\carroExercicio1.dll
