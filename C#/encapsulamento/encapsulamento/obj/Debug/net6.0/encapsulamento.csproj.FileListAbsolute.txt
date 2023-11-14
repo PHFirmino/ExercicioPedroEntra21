@@ -1,0 +1,14 @@
+C:\Users\Pedro\source\repos\encapsulamento\encapsulamento\bin\Debug\net6.0\encapsulamento.exe
+C:\Users\Pedro\source\repos\encapsulamento\encapsulamento\bin\Debug\net6.0\encapsulamento.deps.json
+C:\Users\Pedro\source\repos\encapsulamento\encapsulamento\bin\Debug\net6.0\encapsulamento.runtimeconfig.json
+C:\Users\Pedro\source\repos\encapsulamento\encapsulamento\bin\Debug\net6.0\encapsulamento.dll
+C:\Users\Pedro\source\repos\encapsulamento\encapsulamento\bin\Debug\net6.0\encapsulamento.pdb
+C:\Users\Pedro\source\repos\encapsulamento\encapsulamento\obj\Debug\net6.0\encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\source\repos\encapsulamento\encapsulamento\obj\Debug\net6.0\encapsulamento.AssemblyInfoInputs.cache
+C:\Users\Pedro\source\repos\encapsulamento\encapsulamento\obj\Debug\net6.0\encapsulamento.AssemblyInfo.cs
+C:\Users\Pedro\source\repos\encapsulamento\encapsulamento\obj\Debug\net6.0\encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\source\repos\encapsulamento\encapsulamento\obj\Debug\net6.0\encapsulamento.dll
+C:\Users\Pedro\source\repos\encapsulamento\encapsulamento\obj\Debug\net6.0\refint\encapsulamento.dll
+C:\Users\Pedro\source\repos\encapsulamento\encapsulamento\obj\Debug\net6.0\encapsulamento.pdb
+C:\Users\Pedro\source\repos\encapsulamento\encapsulamento\obj\Debug\net6.0\encapsulamento.genruntimeconfig.cache
+C:\Users\Pedro\source\repos\encapsulamento\encapsulamento\obj\Debug\net6.0\ref\encapsulamento.dll
