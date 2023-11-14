@@ -1,0 +1,14 @@
+D:\TUDO_PROGRAMAÇÃO\PEDRO_PROG\Abstracao\Abstracao\bin\Debug\net6.0\Abstracao.exe
+D:\TUDO_PROGRAMAÇÃO\PEDRO_PROG\Abstracao\Abstracao\bin\Debug\net6.0\Abstracao.deps.json
+D:\TUDO_PROGRAMAÇÃO\PEDRO_PROG\Abstracao\Abstracao\bin\Debug\net6.0\Abstracao.runtimeconfig.json
+D:\TUDO_PROGRAMAÇÃO\PEDRO_PROG\Abstracao\Abstracao\bin\Debug\net6.0\Abstracao.dll
+D:\TUDO_PROGRAMAÇÃO\PEDRO_PROG\Abstracao\Abstracao\bin\Debug\net6.0\Abstracao.pdb
+D:\TUDO_PROGRAMAÇÃO\PEDRO_PROG\Abstracao\Abstracao\obj\Debug\net6.0\Abstracao.GeneratedMSBuildEditorConfig.editorconfig
+D:\TUDO_PROGRAMAÇÃO\PEDRO_PROG\Abstracao\Abstracao\obj\Debug\net6.0\Abstracao.AssemblyInfoInputs.cache
+D:\TUDO_PROGRAMAÇÃO\PEDRO_PROG\Abstracao\Abstracao\obj\Debug\net6.0\Abstracao.AssemblyInfo.cs
+D:\TUDO_PROGRAMAÇÃO\PEDRO_PROG\Abstracao\Abstracao\obj\Debug\net6.0\Abstracao.csproj.CoreCompileInputs.cache
+D:\TUDO_PROGRAMAÇÃO\PEDRO_PROG\Abstracao\Abstracao\obj\Debug\net6.0\Abstracao.dll
+D:\TUDO_PROGRAMAÇÃO\PEDRO_PROG\Abstracao\Abstracao\obj\Debug\net6.0\refint\Abstracao.dll
+D:\TUDO_PROGRAMAÇÃO\PEDRO_PROG\Abstracao\Abstracao\obj\Debug\net6.0\Abstracao.pdb
+D:\TUDO_PROGRAMAÇÃO\PEDRO_PROG\Abstracao\Abstracao\obj\Debug\net6.0\Abstracao.genruntimeconfig.cache
+D:\TUDO_PROGRAMAÇÃO\PEDRO_PROG\Abstracao\Abstracao\obj\Debug\net6.0\ref\Abstracao.dll
