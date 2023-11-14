@@ -1,0 +1,14 @@
+C:\Users\Pedro\source\repos\produtosExercicio4\produtosExercicio4\bin\Debug\net6.0\produtosExercicio4.exe
+C:\Users\Pedro\source\repos\produtosExercicio4\produtosExercicio4\bin\Debug\net6.0\produtosExercicio4.deps.json
+C:\Users\Pedro\source\repos\produtosExercicio4\produtosExercicio4\bin\Debug\net6.0\produtosExercicio4.runtimeconfig.json
+C:\Users\Pedro\source\repos\produtosExercicio4\produtosExercicio4\bin\Debug\net6.0\produtosExercicio4.dll
+C:\Users\Pedro\source\repos\produtosExercicio4\produtosExercicio4\bin\Debug\net6.0\produtosExercicio4.pdb
+C:\Users\Pedro\source\repos\produtosExercicio4\produtosExercicio4\obj\Debug\net6.0\produtosExercicio4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\source\repos\produtosExercicio4\produtosExercicio4\obj\Debug\net6.0\produtosExercicio4.AssemblyInfoInputs.cache
+C:\Users\Pedro\source\repos\produtosExercicio4\produtosExercicio4\obj\Debug\net6.0\produtosExercicio4.AssemblyInfo.cs
+C:\Users\Pedro\source\repos\produtosExercicio4\produtosExercicio4\obj\Debug\net6.0\produtosExercicio4.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\source\repos\produtosExercicio4\produtosExercicio4\obj\Debug\net6.0\produtosExercicio4.dll
+C:\Users\Pedro\source\repos\produtosExercicio4\produtosExercicio4\obj\Debug\net6.0\refint\produtosExercicio4.dll
+C:\Users\Pedro\source\repos\produtosExercicio4\produtosExercicio4\obj\Debug\net6.0\produtosExercicio4.pdb
+C:\Users\Pedro\source\repos\produtosExercicio4\produtosExercicio4\obj\Debug\net6.0\produtosExercicio4.genruntimeconfig.cache
+C:\Users\Pedro\source\repos\produtosExercicio4\produtosExercicio4\obj\Debug\net6.0\ref\produtosExercicio4.dll
