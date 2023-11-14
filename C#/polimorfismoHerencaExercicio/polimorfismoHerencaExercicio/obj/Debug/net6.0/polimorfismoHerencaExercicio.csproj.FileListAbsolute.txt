@@ -1,0 +1,14 @@
+C:\Users\Pedro\source\repos\polimorfismoHerencaExercicio\polimorfismoHerencaExercicio\bin\Debug\net6.0\polimorfismoHerencaExercicio.exe
+C:\Users\Pedro\source\repos\polimorfismoHerencaExercicio\polimorfismoHerencaExercicio\bin\Debug\net6.0\polimorfismoHerencaExercicio.deps.json
+C:\Users\Pedro\source\repos\polimorfismoHerencaExercicio\polimorfismoHerencaExercicio\bin\Debug\net6.0\polimorfismoHerencaExercicio.runtimeconfig.json
+C:\Users\Pedro\source\repos\polimorfismoHerencaExercicio\polimorfismoHerencaExercicio\bin\Debug\net6.0\polimorfismoHerencaExercicio.dll
+C:\Users\Pedro\source\repos\polimorfismoHerencaExercicio\polimorfismoHerencaExercicio\bin\Debug\net6.0\polimorfismoHerencaExercicio.pdb
+C:\Users\Pedro\source\repos\polimorfismoHerencaExercicio\polimorfismoHerencaExercicio\obj\Debug\net6.0\polimorfismoHerencaExercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\source\repos\polimorfismoHerencaExercicio\polimorfismoHerencaExercicio\obj\Debug\net6.0\polimorfismoHerencaExercicio.AssemblyInfoInputs.cache
+C:\Users\Pedro\source\repos\polimorfismoHerencaExercicio\polimorfismoHerencaExercicio\obj\Debug\net6.0\polimorfismoHerencaExercicio.AssemblyInfo.cs
+C:\Users\Pedro\source\repos\polimorfismoHerencaExercicio\polimorfismoHerencaExercicio\obj\Debug\net6.0\polimorfismoHerencaExercicio.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\source\repos\polimorfismoHerencaExercicio\polimorfismoHerencaExercicio\obj\Debug\net6.0\polimorfismoHerencaExercicio.dll
+C:\Users\Pedro\source\repos\polimorfismoHerencaExercicio\polimorfismoHerencaExercicio\obj\Debug\net6.0\refint\polimorfismoHerencaExercicio.dll
+C:\Users\Pedro\source\repos\polimorfismoHerencaExercicio\polimorfismoHerencaExercicio\obj\Debug\net6.0\polimorfismoHerencaExercicio.pdb
+C:\Users\Pedro\source\repos\polimorfismoHerencaExercicio\polimorfismoHerencaExercicio\obj\Debug\net6.0\polimorfismoHerencaExercicio.genruntimeconfig.cache
+C:\Users\Pedro\source\repos\polimorfismoHerencaExercicio\polimorfismoHerencaExercicio\obj\Debug\net6.0\ref\polimorfismoHerencaExercicio.dll
