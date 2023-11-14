@@ -1,0 +1,14 @@
+C:\Users\Pedro\source\repos\retanguloExercicio3\retanguloExercicio3\bin\Debug\net6.0\retanguloExercicio3.exe
+C:\Users\Pedro\source\repos\retanguloExercicio3\retanguloExercicio3\bin\Debug\net6.0\retanguloExercicio3.deps.json
+C:\Users\Pedro\source\repos\retanguloExercicio3\retanguloExercicio3\bin\Debug\net6.0\retanguloExercicio3.runtimeconfig.json
+C:\Users\Pedro\source\repos\retanguloExercicio3\retanguloExercicio3\bin\Debug\net6.0\retanguloExercicio3.dll
+C:\Users\Pedro\source\repos\retanguloExercicio3\retanguloExercicio3\bin\Debug\net6.0\retanguloExercicio3.pdb
+C:\Users\Pedro\source\repos\retanguloExercicio3\retanguloExercicio3\obj\Debug\net6.0\retanguloExercicio3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\source\repos\retanguloExercicio3\retanguloExercicio3\obj\Debug\net6.0\retanguloExercicio3.AssemblyInfoInputs.cache
+C:\Users\Pedro\source\repos\retanguloExercicio3\retanguloExercicio3\obj\Debug\net6.0\retanguloExercicio3.AssemblyInfo.cs
+C:\Users\Pedro\source\repos\retanguloExercicio3\retanguloExercicio3\obj\Debug\net6.0\retanguloExercicio3.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\source\repos\retanguloExercicio3\retanguloExercicio3\obj\Debug\net6.0\retanguloExercicio3.dll
+C:\Users\Pedro\source\repos\retanguloExercicio3\retanguloExercicio3\obj\Debug\net6.0\refint\retanguloExercicio3.dll
+C:\Users\Pedro\source\repos\retanguloExercicio3\retanguloExercicio3\obj\Debug\net6.0\retanguloExercicio3.pdb
+C:\Users\Pedro\source\repos\retanguloExercicio3\retanguloExercicio3\obj\Debug\net6.0\retanguloExercicio3.genruntimeconfig.cache
+C:\Users\Pedro\source\repos\retanguloExercicio3\retanguloExercicio3\obj\Debug\net6.0\ref\retanguloExercicio3.dll
