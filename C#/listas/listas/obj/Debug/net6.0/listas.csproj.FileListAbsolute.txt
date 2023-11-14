@@ -1,0 +1,14 @@
+C:\Users\Pedro\source\repos\listas\listas\bin\Debug\net6.0\listas.exe
+C:\Users\Pedro\source\repos\listas\listas\bin\Debug\net6.0\listas.deps.json
+C:\Users\Pedro\source\repos\listas\listas\bin\Debug\net6.0\listas.runtimeconfig.json
+C:\Users\Pedro\source\repos\listas\listas\bin\Debug\net6.0\listas.dll
+C:\Users\Pedro\source\repos\listas\listas\bin\Debug\net6.0\listas.pdb
+C:\Users\Pedro\source\repos\listas\listas\obj\Debug\net6.0\listas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\source\repos\listas\listas\obj\Debug\net6.0\listas.AssemblyInfoInputs.cache
+C:\Users\Pedro\source\repos\listas\listas\obj\Debug\net6.0\listas.AssemblyInfo.cs
+C:\Users\Pedro\source\repos\listas\listas\obj\Debug\net6.0\listas.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\source\repos\listas\listas\obj\Debug\net6.0\listas.dll
+C:\Users\Pedro\source\repos\listas\listas\obj\Debug\net6.0\refint\listas.dll
+C:\Users\Pedro\source\repos\listas\listas\obj\Debug\net6.0\listas.pdb
+C:\Users\Pedro\source\repos\listas\listas\obj\Debug\net6.0\listas.genruntimeconfig.cache
+C:\Users\Pedro\source\repos\listas\listas\obj\Debug\net6.0\ref\listas.dll
