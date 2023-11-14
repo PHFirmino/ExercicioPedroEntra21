@@ -1,0 +1,14 @@
+C:\Users\Pedro\source\repos\listEsortedListExercicios\listEsortedListExercicios\bin\Debug\net6.0\listEsortedListExercicios.exe
+C:\Users\Pedro\source\repos\listEsortedListExercicios\listEsortedListExercicios\bin\Debug\net6.0\listEsortedListExercicios.deps.json
+C:\Users\Pedro\source\repos\listEsortedListExercicios\listEsortedListExercicios\bin\Debug\net6.0\listEsortedListExercicios.runtimeconfig.json
+C:\Users\Pedro\source\repos\listEsortedListExercicios\listEsortedListExercicios\bin\Debug\net6.0\listEsortedListExercicios.dll
+C:\Users\Pedro\source\repos\listEsortedListExercicios\listEsortedListExercicios\bin\Debug\net6.0\listEsortedListExercicios.pdb
+C:\Users\Pedro\source\repos\listEsortedListExercicios\listEsortedListExercicios\obj\Debug\net6.0\listEsortedListExercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\source\repos\listEsortedListExercicios\listEsortedListExercicios\obj\Debug\net6.0\listEsortedListExercicios.AssemblyInfoInputs.cache
+C:\Users\Pedro\source\repos\listEsortedListExercicios\listEsortedListExercicios\obj\Debug\net6.0\listEsortedListExercicios.AssemblyInfo.cs
+C:\Users\Pedro\source\repos\listEsortedListExercicios\listEsortedListExercicios\obj\Debug\net6.0\listEsortedListExercicios.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\source\repos\listEsortedListExercicios\listEsortedListExercicios\obj\Debug\net6.0\listEsortedListExercicios.dll
+C:\Users\Pedro\source\repos\listEsortedListExercicios\listEsortedListExercicios\obj\Debug\net6.0\refint\listEsortedListExercicios.dll
+C:\Users\Pedro\source\repos\listEsortedListExercicios\listEsortedListExercicios\obj\Debug\net6.0\listEsortedListExercicios.pdb
+C:\Users\Pedro\source\repos\listEsortedListExercicios\listEsortedListExercicios\obj\Debug\net6.0\listEsortedListExercicios.genruntimeconfig.cache
+C:\Users\Pedro\source\repos\listEsortedListExercicios\listEsortedListExercicios\obj\Debug\net6.0\ref\listEsortedListExercicios.dll
