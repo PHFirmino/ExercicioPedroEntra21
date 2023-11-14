@@ -1,0 +1,14 @@
+C:\Users\Pedro\source\repos\modificadorDeAcesso\modificadorDeAcesso\bin\Debug\net6.0\modificadorDeAcesso.exe
+C:\Users\Pedro\source\repos\modificadorDeAcesso\modificadorDeAcesso\bin\Debug\net6.0\modificadorDeAcesso.deps.json
+C:\Users\Pedro\source\repos\modificadorDeAcesso\modificadorDeAcesso\bin\Debug\net6.0\modificadorDeAcesso.runtimeconfig.json
+C:\Users\Pedro\source\repos\modificadorDeAcesso\modificadorDeAcesso\bin\Debug\net6.0\modificadorDeAcesso.dll
+C:\Users\Pedro\source\repos\modificadorDeAcesso\modificadorDeAcesso\bin\Debug\net6.0\modificadorDeAcesso.pdb
+C:\Users\Pedro\source\repos\modificadorDeAcesso\modificadorDeAcesso\obj\Debug\net6.0\modificadorDeAcesso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\source\repos\modificadorDeAcesso\modificadorDeAcesso\obj\Debug\net6.0\modificadorDeAcesso.AssemblyInfoInputs.cache
+C:\Users\Pedro\source\repos\modificadorDeAcesso\modificadorDeAcesso\obj\Debug\net6.0\modificadorDeAcesso.AssemblyInfo.cs
+C:\Users\Pedro\source\repos\modificadorDeAcesso\modificadorDeAcesso\obj\Debug\net6.0\modificadorDeAcesso.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\source\repos\modificadorDeAcesso\modificadorDeAcesso\obj\Debug\net6.0\modificadorDeAcesso.dll
+C:\Users\Pedro\source\repos\modificadorDeAcesso\modificadorDeAcesso\obj\Debug\net6.0\refint\modificadorDeAcesso.dll
+C:\Users\Pedro\source\repos\modificadorDeAcesso\modificadorDeAcesso\obj\Debug\net6.0\modificadorDeAcesso.pdb
+C:\Users\Pedro\source\repos\modificadorDeAcesso\modificadorDeAcesso\obj\Debug\net6.0\modificadorDeAcesso.genruntimeconfig.cache
+C:\Users\Pedro\source\repos\modificadorDeAcesso\modificadorDeAcesso\obj\Debug\net6.0\ref\modificadorDeAcesso.dll
