@@ -1,0 +1,14 @@
+C:\Users\Pedro\source\repos\calculoExercicio2\calculoExercicio2\bin\Debug\net6.0\calculoExercicio2.exe
+C:\Users\Pedro\source\repos\calculoExercicio2\calculoExercicio2\bin\Debug\net6.0\calculoExercicio2.deps.json
+C:\Users\Pedro\source\repos\calculoExercicio2\calculoExercicio2\bin\Debug\net6.0\calculoExercicio2.runtimeconfig.json
+C:\Users\Pedro\source\repos\calculoExercicio2\calculoExercicio2\bin\Debug\net6.0\calculoExercicio2.dll
+C:\Users\Pedro\source\repos\calculoExercicio2\calculoExercicio2\bin\Debug\net6.0\calculoExercicio2.pdb
+C:\Users\Pedro\source\repos\calculoExercicio2\calculoExercicio2\obj\Debug\net6.0\calculoExercicio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\source\repos\calculoExercicio2\calculoExercicio2\obj\Debug\net6.0\calculoExercicio2.AssemblyInfoInputs.cache
+C:\Users\Pedro\source\repos\calculoExercicio2\calculoExercicio2\obj\Debug\net6.0\calculoExercicio2.AssemblyInfo.cs
+C:\Users\Pedro\source\repos\calculoExercicio2\calculoExercicio2\obj\Debug\net6.0\calculoExercicio2.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\source\repos\calculoExercicio2\calculoExercicio2\obj\Debug\net6.0\calculoExercicio2.dll
+C:\Users\Pedro\source\repos\calculoExercicio2\calculoExercicio2\obj\Debug\net6.0\refint\calculoExercicio2.dll
+C:\Users\Pedro\source\repos\calculoExercicio2\calculoExercicio2\obj\Debug\net6.0\calculoExercicio2.pdb
+C:\Users\Pedro\source\repos\calculoExercicio2\calculoExercicio2\obj\Debug\net6.0\calculoExercicio2.genruntimeconfig.cache
+C:\Users\Pedro\source\repos\calculoExercicio2\calculoExercicio2\obj\Debug\net6.0\ref\calculoExercicio2.dll
