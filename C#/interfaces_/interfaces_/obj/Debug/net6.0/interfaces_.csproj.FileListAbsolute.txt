@@ -1,0 +1,14 @@
+C:\Users\Pedro\source\repos\interfaces_\interfaces_\bin\Debug\net6.0\interfaces_.exe
+C:\Users\Pedro\source\repos\interfaces_\interfaces_\bin\Debug\net6.0\interfaces_.deps.json
+C:\Users\Pedro\source\repos\interfaces_\interfaces_\bin\Debug\net6.0\interfaces_.runtimeconfig.json
+C:\Users\Pedro\source\repos\interfaces_\interfaces_\bin\Debug\net6.0\interfaces_.dll
+C:\Users\Pedro\source\repos\interfaces_\interfaces_\bin\Debug\net6.0\interfaces_.pdb
+C:\Users\Pedro\source\repos\interfaces_\interfaces_\obj\Debug\net6.0\interfaces_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\source\repos\interfaces_\interfaces_\obj\Debug\net6.0\interfaces_.AssemblyInfoInputs.cache
+C:\Users\Pedro\source\repos\interfaces_\interfaces_\obj\Debug\net6.0\interfaces_.AssemblyInfo.cs
+C:\Users\Pedro\source\repos\interfaces_\interfaces_\obj\Debug\net6.0\interfaces_.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\source\repos\interfaces_\interfaces_\obj\Debug\net6.0\interfaces_.dll
+C:\Users\Pedro\source\repos\interfaces_\interfaces_\obj\Debug\net6.0\refint\interfaces_.dll
+C:\Users\Pedro\source\repos\interfaces_\interfaces_\obj\Debug\net6.0\interfaces_.pdb
+C:\Users\Pedro\source\repos\interfaces_\interfaces_\obj\Debug\net6.0\interfaces_.genruntimeconfig.cache
+C:\Users\Pedro\source\repos\interfaces_\interfaces_\obj\Debug\net6.0\ref\interfaces_.dll
