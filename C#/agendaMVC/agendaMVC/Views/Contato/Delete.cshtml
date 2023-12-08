@@ -1,0 +1,17 @@
+﻿@model Contato
+@{
+    ViewData["Title"] = "Contato Delete";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<h1>Deseja remover esse contato?</h1>
+
+<form action="Delete" method="post">
+    <div>
+        <input type="submit" value="Delete" /> 
+    </div>
+    <div>
+        @Html.ActionLink("Voltar para a lista", "Index")
+    </div>
+</form>

@@ -1,0 +1,18 @@
+﻿@model List<Compromisso>
+@{
+    ViewData["Title"] = "Detalhe Compromisso";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+@foreach(var itemCompromisso in Model)
+{
+    <p>Id: @itemCompromisso.Id</p>
+    <p>Data: @itemCompromisso.Data</p>
+    <p>Hora: @itemCompromisso.Hora</p>
+    <p>Rua: @itemCompromisso.Local.Rua</p>
+    <p>Email: @itemCompromisso.Contato.Email</p>
+    <p>Status: @itemCompromisso.Status</p>
+}
+
+<a>@Html.ActionLink("Listar","Index")</a>

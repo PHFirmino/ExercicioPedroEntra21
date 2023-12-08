@@ -1,0 +1,14 @@
+﻿@model List<Contato>
+@{
+    ViewData["Title"] = "Contato Detalhe";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+@foreach(var itemContato in Model)
+{
+    <p>Id: @itemContato.Id</p>
+    <p>Nome: @itemContato.Name</p>
+    <p>Email: @itemContato.Email</p>
+    <p>Fone: @itemContato.Fone</p>
+}

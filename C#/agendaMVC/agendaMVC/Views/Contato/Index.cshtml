@@ -1,0 +1,27 @@
+﻿@model List<Contato> 
+@{
+    ViewData["Title"] = "Contato";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<a asp-area="" asp-controller="Contato" asp-action="Create">Create</a>
+<table class="table">
+    <tr>
+        <th>Id</th>
+        <th>Nome</th>
+        <th>Email</th>
+        <th>Fone</th>
+        <th>Ações</th>
+    </tr>
+    @foreach(var item in Model)
+    {
+        <tr>
+            <td>@item.Id </td>
+            <td>@item.Name</td>
+            <td>@item.Email</td>
+            <td>@item.Fone</td>
+            <td>@Html.ActionLink("Edit", "Edit", new {id = item.Id}) | @Html.ActionLink("Delete", "Delete", new{id = item.Id}) | @Html.ActionLink("Detalhe", "Detalhe", new {id = item.Id})</td>
+        </tr>
+    }
+</table>

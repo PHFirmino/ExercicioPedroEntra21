@@ -1,0 +1,11 @@
+﻿@model Compromisso
+@{
+    ViewData["Title"] = "Deletar Compromisso";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<form asp-action="Delete" method="post">
+    <input type="submit" value="Delete" />
+    <a>@Html.ActionLink("Listar", "Index")</a>
+</form>

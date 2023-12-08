@@ -1,0 +1,31 @@
+﻿@model List<Compromisso>
+@{
+    ViewData["Title"] = "Compromisso";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<a asp-area="" asp-controller="Compromisso" asp-action="Create">Create</a>
+<table class="table">
+    <tr>
+        <th>Id</th>
+        <th>Data</th>
+        <th>Hora</th>
+        <th>Local</th>
+        <th>Contato</th>
+        <th>Status</th>
+        <th>Ações</th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Id</td>
+            <td>@item.Data</td>
+            <td>@item.Hora</td>
+            <td>@item.Local.Rua</td>
+            <td>@item.Contato.Email</td>
+            <td>@item.Status</td>
+            <td>@Html.ActionLink("Edit", "Edit", new {id = item.Id}) | @Html.ActionLink("Delete", "Delete", new{id = item.Id}) | @Html.ActionLink("Detalhe", "Detalhe", new {id = item.Id})</td>
+        </tr>
+    }
+</table>

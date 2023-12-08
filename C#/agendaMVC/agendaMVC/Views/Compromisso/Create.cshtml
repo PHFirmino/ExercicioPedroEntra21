@@ -1,0 +1,46 @@
+﻿@model agendaMVC.Models.Compromisso
+@{
+    ViewData["Title"] = "Compromisso Create";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<form asp-action="Create" method="post">
+    <div>
+        <div>
+            <label asp-for="Data">Data</label>
+            <div>
+
+                <input asp-for="Data" type="date"/>
+            </div>
+        </div>
+        <div>
+            <label asp-for="Hora">Hora</label>
+            <input asp-for="Hora" type="time"/>
+        </div>
+        <div>
+            <label asp-for="Contato">Contato</label>
+            <div>
+                <select asp-for="Contato.Id" asp-items="@ViewBag.Contatos" class="form-control"></select>
+            </div>
+        </div>
+        <div>
+            <label asp-for="Local">Local</label>
+            <div>
+                <select asp-for="Local.Id" asp-items="@ViewBag.Local" class="form-control"></select>
+            </div>
+        </div>
+        <div>
+            <label asp-for="Status">Status</label>
+            <div>
+
+                <input asp-for="Status" />
+            </div>
+        </div>
+        <div>
+            <input type="submit" value="Create" />
+        </div>
+    </div>
+
+
+</form>

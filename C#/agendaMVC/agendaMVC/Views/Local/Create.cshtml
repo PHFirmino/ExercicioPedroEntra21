@@ -1,0 +1,52 @@
+﻿@model agendaMVC.Models.Local
+@{
+    ViewData["Title"] = "Create Local";
+}
+
+<form asp-action="Create" method="post">
+    <div>
+        <label asp-for="Nome">Nome</label>
+        <div>
+            <input asp-for="Nome"/>
+        </div>
+    </div>
+    <div>
+        <label asp-for="Rua">Rua</label>
+        <div>
+            <input asp-for="Rua" />
+        </div>
+    </div>
+    <div>
+        <label asp-for="Numero">Numero</label>
+        <div>
+            <input asp-for="Numero" />
+        </div>
+    </div>
+    <div>
+        <label asp-for="Bairro">Bairro</label>
+        <div>
+            <input asp-for="Bairro" />
+        </div>
+    </div>
+    <div>
+        <label asp-for="Cidade">Cidade</label>
+        <div>
+            <input asp-for="Cidade" />
+        </div>
+    </div>
+    <div>
+        <label asp-for="Cep">Cep</label>
+        <div>
+            <input asp-for="Cep" />
+        </div>
+    </div>
+    <div>
+        <label asp-for="Uf">Uf</label>
+        <div>
+            <input asp-for="Uf" />
+        </div>
+    </div>
+    <div>
+        <input type="submit" value="Create"/>
+    </div>
+</form>

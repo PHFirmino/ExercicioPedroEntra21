@@ -1,0 +1,36 @@
+﻿@model List<Local>
+@{
+    ViewData["Title"] = "Index Local";
+}
+
+<h1>Local</h1>
+
+<p>@Html.ActionLink("Create", "Create")</p>
+
+<table class="table">
+    <tr>
+        <th>Id</th>
+        <th>Nome</th>
+        <th>Rua</th>
+        <th>Numero</th>
+        <th>Bairro</th>
+        <th>Cidade</th>
+        <th>Cep</th>
+        <th>Uf</th>
+        <th>Ações</th>
+    </tr>
+    @foreach (Local localItem in Model)
+    {
+        <tr>
+            <td>@localItem.Id</td>
+            <td>@localItem.Nome</td>
+            <td>@localItem.Rua</td>
+            <td>@localItem.Numero</td>
+            <td>@localItem.Bairro</td>
+            <td>@localItem.Cidade</td>
+            <td>@localItem.Cep</td>
+            <td>@localItem.Uf</td>
+            <td>@Html.ActionLink("Edit", "Edit", new {id = localItem.Id}) | @Html.ActionLink("Delete", "Delete", new{id = localItem.Id}) | @Html.ActionLink("Detalhe", "Detalhe", new {id = localItem.Id})</td>
+        </tr>
+    }
+</table>

@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Views\Contato\Delete.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="Dao\BdCrud.cs~RFbd4985f.TMP" />
+    <None Remove="Interfaces\ICrud.cs~RF5be082.TMP" />
+    <None Remove="Models\Contato.cs~RF94414bf.TMP" />
+    <None Remove="Views\Contato\Detalhe.cshtml~RF950dcc7.TMP" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.5" />
+  </ItemGroup>
+
+</Project>

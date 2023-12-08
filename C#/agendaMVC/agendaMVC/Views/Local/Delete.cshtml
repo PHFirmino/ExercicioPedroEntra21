@@ -1,0 +1,11 @@
+﻿@model Local
+@{
+    ViewData["Title"] = "Index Local";
+}
+
+<h1>Remover Local</h1>
+
+<form asp-action="Delete" method="post">
+    <a>@Html.ActionLink("Listar", "Index")</a>
+    <input type="submit" value="Deletar"/>
+</form>

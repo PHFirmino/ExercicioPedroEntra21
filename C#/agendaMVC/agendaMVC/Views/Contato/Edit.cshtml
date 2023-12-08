@@ -1,0 +1,38 @@
+﻿@model agendaMVC.Models.Contato
+@{
+    ViewData["Title"] = "Contato Editar";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<form asp-action="Edit" method="post">
+    <div>
+        <div>
+            <label asp-for="Name">Nome</label>
+            <div>
+
+                <input asp-for="Name" />
+            </div>
+        </div>
+        <div>
+            <label asp-for="Email">Email</label>
+            <div>
+
+                <input asp-for="Email" />
+            </div>
+        </div>
+        <div>
+            <div>
+                <label asp-for="Fone">Fone</label>
+                <div>
+
+                    <input asp-for="Fone" />
+                </div>
+            </div>
+        </div>
+        <div>
+            <input type="submit" value="Create" />
+        </div>
+    </div>
+</form>
+

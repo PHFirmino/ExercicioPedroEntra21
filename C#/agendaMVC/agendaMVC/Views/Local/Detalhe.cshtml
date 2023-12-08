@@ -1,0 +1,17 @@
+﻿@model Local
+@{
+    ViewData["Title"] = "Detalhe Local";
+}
+
+<h1>Detalhe local</h1>
+
+<p>Id: @Model.Id</p>
+<p>Nome: @Model.Nome</p>
+<p>Rua: @Model.Rua</p>
+<p>Numero: @Model.Numero</p>
+<p>Bairro: @Model.Bairro</p>
+<p>Cidade: @Model.Cidade</p>
+<p>Cep: @Model.Cep</p>
+<p>Uf: @Model.Uf</p>
+
+<p>@Html.ActionLink("Listar","Index")</p>
