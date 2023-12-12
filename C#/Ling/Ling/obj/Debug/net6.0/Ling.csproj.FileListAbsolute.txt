@@ -1,0 +1,15 @@
+C:\Users\pedro.garcia\source\repos\Ling\Ling\bin\Debug\net6.0\Ling.exe
+C:\Users\pedro.garcia\source\repos\Ling\Ling\bin\Debug\net6.0\Ling.deps.json
+C:\Users\pedro.garcia\source\repos\Ling\Ling\bin\Debug\net6.0\Ling.runtimeconfig.json
+C:\Users\pedro.garcia\source\repos\Ling\Ling\bin\Debug\net6.0\Ling.dll
+C:\Users\pedro.garcia\source\repos\Ling\Ling\bin\Debug\net6.0\Ling.pdb
+C:\Users\pedro.garcia\source\repos\Ling\Ling\obj\Debug\net6.0\Ling.csproj.AssemblyReference.cache
+C:\Users\pedro.garcia\source\repos\Ling\Ling\obj\Debug\net6.0\Ling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro.garcia\source\repos\Ling\Ling\obj\Debug\net6.0\Ling.AssemblyInfoInputs.cache
+C:\Users\pedro.garcia\source\repos\Ling\Ling\obj\Debug\net6.0\Ling.AssemblyInfo.cs
+C:\Users\pedro.garcia\source\repos\Ling\Ling\obj\Debug\net6.0\Ling.csproj.CoreCompileInputs.cache
+C:\Users\pedro.garcia\source\repos\Ling\Ling\obj\Debug\net6.0\Ling.dll
+C:\Users\pedro.garcia\source\repos\Ling\Ling\obj\Debug\net6.0\refint\Ling.dll
+C:\Users\pedro.garcia\source\repos\Ling\Ling\obj\Debug\net6.0\Ling.pdb
+C:\Users\pedro.garcia\source\repos\Ling\Ling\obj\Debug\net6.0\Ling.genruntimeconfig.cache
+C:\Users\pedro.garcia\source\repos\Ling\Ling\obj\Debug\net6.0\ref\Ling.dll
