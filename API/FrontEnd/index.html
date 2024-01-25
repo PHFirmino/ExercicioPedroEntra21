@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+    <title>Consulta de Categorias</title>
+</head>
+<body>
+    <div>
+        <input type="text" id="userNome" placeholder="nome">
+        <input type="text" id="userSenha" placeholder="senha">
+        <div id="msg2"></div>
+        <input type="button" onclick="buscarUser()">
+    </div>
+    <div>
+        <form>
+            <input type="text" id="consultar">
+            <input type="button" onclick="buscar()">
+        </form>
+        <div>
+            <p id="msg"></p>
+        </div>
+    </div>
+    <form>
+        <h1>Listar Produtos</h1>
+        <div>
+            <h1>Adicionar</h1>
+            <div>
+                <input type="text" placeholder="Digite o id" id="id">
+                <input type="text" placeholder="Digite o nome" id="nome">
+                <input type="number" placeholder="Digite o estoque" id="estoque">
+                <input type="number" placeholder="Digite o preco" id="preco">
+                <input type="text" placeholder="Digite o id categoria" id="categoria">
+                <input type="submit" value="Enviar" onclick="adicionarProduto()">
+            </div>
+        </div>
+    </form>
+    <button onclick="carregarCategoria()">Carregar</button>
+    <table class="table">
+        <thead>
+          <tr>
+            <th scope="col">ID</th>
+            <th scope="col">Nome</th>
+            <th scope="col">Preco</th>
+            <th scope="col">Estoque</th>
+            <th scope="col">Categoria</th>
+          </tr>
+        </thead>
+        <tbody id="tb">
+        </tbody>
+      </table>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
+    <script src="js/app.js"></script>
+</body>
+</html>

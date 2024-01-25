@@ -1,0 +1,26 @@
+.acoes{
+    display: flex;
+}
+
+.editar{
+    margin-left: 4px;
+}
+
+.table th, .table td {
+    border-bottom: none;
+}
+
+table{
+    margin-top: 100px;
+    margin-left: 200px;
+}
+
+#login{
+    text-decoration: none;
+    display: inline-block;
+    margin-left: 10px;
+    color: white;
+    background-color: rgb(0, 255, 170);
+    padding: 7px;
+    border-radius: 5px;
+}

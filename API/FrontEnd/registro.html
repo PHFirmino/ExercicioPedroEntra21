@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/registro.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+    <title>Registro</title>
+</head>
+<body>
+    <main>
+        <form>
+            <div class="mb-3">
+                <label for="" class="form-label">Código</label>
+                <input type="text" class="form-control" id="codigo" aria-describedby="emailHelp" placeholder="Digite seu codigo">
+            </div>
+            <div class="mb-3">
+                <label for="" class="form-label">Nome</label>
+                <input type="text" class="form-control" id="userNome" aria-describedby="emailHelp" placeholder="Digite seu nome">
+            </div>
+            <div class="mb-3">
+                <label for="" class="form-label">Senha</label>
+                <input type="password" class="form-control" id="userSenha" aria-describedby="emailHelp" placeholder="Digite sua senha">
+            </div>
+            <div class="mb-3">
+            <label for="" class="form-label">Função</label>
+            <select class="form-select" id="funcao" aria-label="Default select example">
+                <option selected>Selecione</option>
+                <option value="admin">Admin</option>
+                <option value="gerente">Gerente</option>
+                <option value="funcionario">Funcionário</option>
+              </select>
+            </div>
+            <button type="submit" class="btn btn-primary" onclick="registrar()">Registrar-se</button>
+            <div>
+                <a href="loginUser.html">Já possui cadastro</a>
+            </div>
+        </form>
+    </main>
+
+    <script src="js/registro.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
+</body>
+</html>
