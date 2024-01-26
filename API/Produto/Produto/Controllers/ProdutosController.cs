@@ -181,7 +181,7 @@ namespace Produto.Controllers
 
         // DELETE: api/Produtos/5
         [HttpDelete("deletar/{id}")]
-        [Authorize(Roles = "gerente,admin")]
+        [Authorize(Roles = "admin")]
         public async Task<IActionResult> DeleteProdutos(long id)
         {
             var produtos = await _context.Produtos.FindAsync(id);
