@@ -64,6 +64,7 @@ namespace Produto.Controllers
         }
         // GET: api/Produtos
         [HttpGet]
+        [Authorize(Roles = "admin,gerente,funcionario")]
         public async Task<ActionResult<IEnumerable<Produtos>>> GetProdutos()
         {
             var produtos = await _context.Produtos.ToListAsync();
